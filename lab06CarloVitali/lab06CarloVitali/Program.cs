@@ -25,7 +25,7 @@ namespace lab06CarloVitali
                 if (utilizar_archivo == 1)
                 {
                     
-                    
+
                     try
                     {
                         IFormatter formatter = new BinaryFormatter();
@@ -37,14 +37,14 @@ namespace lab06CarloVitali
 
                         Console.WriteLine("Se ha cargado la Informacion de "+ empresa.Nombre+ "!");
 
-
+                    
 
 
 
 
 
                     }
-                    catch (Exception ex)
+                    catch (FileNotFoundException ex)
                     {
                         Console.WriteLine("No se encontro el archivo de la Empresa");
                         Console.WriteLine("");
