@@ -37,6 +37,12 @@ namespace lab06CarloVitali
 
                         Console.WriteLine("Se ha cargado la Informacion de "+ empresa.Nombre+ "!");
 
+
+
+
+
+
+
                     }
                     catch (Exception ex)
                     {
@@ -61,6 +67,12 @@ namespace lab06CarloVitali
                         {
                             Console.WriteLine(descripcion);
                         }*/
+
+
+
+
+
+
                     }
                     a = 0;
                 }
@@ -87,6 +99,13 @@ namespace lab06CarloVitali
                         Console.WriteLine(descripcion);
                     }*/
                     a = 0;
+
+
+
+
+
+
+
                 }
                 else
                 {

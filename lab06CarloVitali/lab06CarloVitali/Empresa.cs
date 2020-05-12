@@ -11,6 +11,7 @@ namespace lab06CarloVitali
     {
         private string nombre;
         private string rut;
+        public List<Division> divisiones;
 
         public string Nombre { get => nombre; set => nombre = value; }
         public string Rut { get => rut; set => rut = value; }
