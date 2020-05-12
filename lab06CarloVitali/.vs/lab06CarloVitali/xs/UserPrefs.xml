@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{D97E788D-482D-4975-A0F9-5565EBBAA865}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="lab06CarloVitali/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab06CarloVitali/Empresa.cs">
     <Files>
-      <File FileName="lab06CarloVitali/Empresa.cs" Line="6" Column="1" />
-      <File FileName="lab06CarloVitali/Program.cs" Line="6" Column="1" />
+      <File FileName="lab06CarloVitali/Empresa.cs" Line="10" Column="25" />
+      <File FileName="lab06CarloVitali/Program.cs" Line="91" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="lab06CarloVitali" expanded="True">
             <Node name="lab06CarloVitali" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Division.cs" selected="True" />
             </Node>
           </Node>
         </State>
