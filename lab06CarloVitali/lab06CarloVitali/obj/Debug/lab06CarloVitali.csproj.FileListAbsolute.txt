@@ -1,0 +1,6 @@
+/Users/Carlo/Desktop/laboratorio-06-PastedBud/lab06CarloVitali/lab06CarloVitali/bin/Debug/lab06CarloVitali.exe
+/Users/Carlo/Desktop/laboratorio-06-PastedBud/lab06CarloVitali/lab06CarloVitali/bin/Debug/lab06CarloVitali.pdb
+/Users/Carlo/Desktop/laboratorio-06-PastedBud/lab06CarloVitali/lab06CarloVitali/obj/Debug/lab06CarloVitali.csprojAssemblyReference.cache
+/Users/Carlo/Desktop/laboratorio-06-PastedBud/lab06CarloVitali/lab06CarloVitali/obj/Debug/lab06CarloVitali.csproj.CoreCompileInputs.cache
+/Users/Carlo/Desktop/laboratorio-06-PastedBud/lab06CarloVitali/lab06CarloVitali/obj/Debug/lab06CarloVitali.exe
+/Users/Carlo/Desktop/laboratorio-06-PastedBud/lab06CarloVitali/lab06CarloVitali/obj/Debug/lab06CarloVitali.pdb
