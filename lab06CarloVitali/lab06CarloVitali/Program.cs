@@ -55,6 +55,7 @@ namespace lab06CarloVitali
                             Stream stream = new FileStream("empresa.bin", FileMode.Create, FileAccess.Write, FileShare.None);
                             formatter.Serialize(stream, empresa);
                             stream.Close();
+                        Console.WriteLine("Se ha Registrado la Informacion de " + empresa.Nombre + "!");
                         /*}
                         else
                         {
@@ -78,6 +79,8 @@ namespace lab06CarloVitali
                         Stream stream = new FileStream("empresa.bin", FileMode.Create, FileAccess.Write, FileShare.None);
                         formatter.Serialize(stream, empresa);
                         stream.Close();
+                    Console.WriteLine("Se ha Registrado la Informacion de " + empresa.Nombre + "!");
+
                     /*}
                     else
                     {

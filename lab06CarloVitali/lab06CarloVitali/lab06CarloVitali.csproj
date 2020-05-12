@@ -35,6 +35,12 @@
     <Compile Include="Empresa.cs" />
     <Compile Include="Registro Empresas.cs" />
     <Compile Include="Division.cs" />
+    <Compile Include="Area.cs" />
+    <Compile Include="Departamento.cs" />
+    <Compile Include="Seccion.cs" />
+    <Compile Include="Bloque.cs" />
+    <Compile Include="Persona.cs" />
+    <Compile Include="Metodos Estaticos.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
