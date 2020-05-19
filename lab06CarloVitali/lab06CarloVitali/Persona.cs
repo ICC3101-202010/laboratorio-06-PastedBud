@@ -12,16 +12,18 @@ namespace lab06CarloVitali
         private string nombre;
         private string apellido;
         private string rut;
-        public List<string> Cargo = new List<string>();
+        private string cargo;
+        private string subdivision;
 
         public string Nombre { get => nombre; set => nombre = value; }
         public string Rut { get => rut; set => rut = value; }
         public string Apellido { get => apellido; set => apellido = value; }
-        
+        public string Cargo { get => cargo; set => cargo = value; }
+        public string Subdivision { get => subdivision; set => subdivision = value; }
 
         public Persona()
         {
-            
+
         }
     }
 }

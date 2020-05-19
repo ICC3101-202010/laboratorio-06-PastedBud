@@ -12,7 +12,7 @@ namespace lab06CarloVitali
         private string nombre;
         public List<Bloque> bloques = new List<Bloque>();
 
-        public string Nombre1 { get => nombre; set => nombre = value; }
+        public string Nombre { get => nombre; set => nombre = value; }
 
         public Seccion()
         {

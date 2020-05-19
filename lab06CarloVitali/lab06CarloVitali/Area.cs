@@ -11,11 +11,10 @@ namespace lab06CarloVitali
     {
         private string nombre;
         public List<Departamento> departamentos = new List<Departamento>();
-
-        public string Nombre1 { get => nombre; set => nombre = value; }
-
         public Area()
         {
         }
+
+        public string Nombre { get => nombre; set => nombre = value; }
     }
 }

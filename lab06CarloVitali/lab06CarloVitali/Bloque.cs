@@ -10,11 +10,11 @@ namespace lab06CarloVitali
     public class Bloque: Division
     {
         private string nombre;
-      
+
         public Bloque()
         {
         }
 
-        public string Nombre1 { get => nombre; set => nombre = value; }
+        public string Nombre { get => nombre; set => nombre = value; }
     }
 }

@@ -12,7 +12,7 @@ namespace lab06CarloVitali
         private string nombre;
         public List<Seccion> secciones = new List<Seccion>();
 
-        public string Nombre1 { get => nombre; set => nombre = value; }
+        public string Nombre { get => nombre; set => nombre = value; }
 
         public Departamento()
         {
