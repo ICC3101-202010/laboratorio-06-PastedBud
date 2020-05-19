@@ -10,6 +10,8 @@ namespace lab06CarloVitali
     public class Division
     {
         private string nombre;
+        public List<Area> areas = new List<Area>();
+        public List<Persona> personas = new List<Persona>();
         public Division()
         {
         }

@@ -1,16 +1,28 @@
 ﻿<Properties StartupConfiguration="{D97E788D-482D-4975-A0F9-5565EBBAA865}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="lab06CarloVitali/Area.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab06CarloVitali/Departamento.cs">
     <Files>
-      <File FileName="lab06CarloVitali/Empresa.cs" Line="10" Column="13" />
-      <File FileName="lab06CarloVitali/Program.cs" />
+      <File FileName="lab06CarloVitali/Program.cs" Line="233" Column="24" />
+      <File FileName="lab06CarloVitali/Metodos Estaticos.cs" Line="84" Column="32" />
+      <File FileName="lab06CarloVitali/Empresa.cs" />
       <File FileName="lab06CarloVitali/Division.cs" />
-      <File FileName="lab06CarloVitali/Area.cs" Line="1" Column="1" />
-      <File FileName="lab06CarloVitali/Departamento.cs" />
+      <File FileName="lab06CarloVitali/Area.cs" />
+      <File FileName="lab06CarloVitali/Departamento.cs" Line="1" Column="1" />
       <File FileName="lab06CarloVitali/Seccion.cs" />
       <File FileName="lab06CarloVitali/Bloque.cs" />
       <File FileName="lab06CarloVitali/Persona.cs" />
-      <File FileName="lab06CarloVitali/Metodos Estaticos.cs" />
+      <File FileName="lab06CarloVitali/Registro Empresas.cs" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab06CarloVitali" expanded="True">
+            <Node name="lab06CarloVitali" expanded="True">
+              <Node name="Departamento.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />

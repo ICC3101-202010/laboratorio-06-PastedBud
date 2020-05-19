@@ -9,8 +9,12 @@ namespace lab06CarloVitali
     [Serializable]
     public class Bloque: Division
     {
+        private string nombre;
+      
         public Bloque()
         {
         }
+
+        public string Nombre1 { get => nombre; set => nombre = value; }
     }
 }

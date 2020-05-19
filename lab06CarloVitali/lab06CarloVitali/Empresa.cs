@@ -9,17 +9,19 @@ namespace lab06CarloVitali
     [Serializable]
     public class Empresa
     {
-        private string nombre;
-        private string rut;
-        public List<Division> divisiones;
-
+        public string nombre;
+        public string rut;
+        public List<Division> divisiones = new List<Division>();
+        
         public string Nombre { get => nombre; set => nombre = value; }
         public string Rut { get => rut; set => rut = value; }
-
-        public Empresa()
+        
+        public Empresa(string Nombre , string Rut)
         {
-            this.Nombre = Nombre;
-            this.Rut = Rut;
+            this.nombre = Nombre;
+            this.rut = Rut;
         }
+        
+       
     }
 }

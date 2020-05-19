@@ -9,6 +9,11 @@ namespace lab06CarloVitali
     [Serializable]
     public class Seccion:Division
     {
+        private string nombre;
+        public List<Bloque> bloques = new List<Bloque>();
+
+        public string Nombre1 { get => nombre; set => nombre = value; }
+
         public Seccion()
         {
         }

@@ -9,6 +9,11 @@ namespace lab06CarloVitali
     [Serializable]
     public class Departamento: Division
     {
+        private string nombre;
+        public List<Seccion> secciones = new List<Seccion>();
+
+        public string Nombre1 { get => nombre; set => nombre = value; }
+
         public Departamento()
         {
         }
